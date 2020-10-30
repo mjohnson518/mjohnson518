@@ -1,13 +1,15 @@
 ### Hi there 👋
 
 
-<p  align="center">
+<!-- <p  align="center">
  <img src="https://visitor-badge.glitch.me/badge?page_id=mjohnson518.mjohnson518" alt="visitor count"/></br>
  <img src="![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mjohnson518&show_icons=true&theme=radical)" alt="github stats"/></br>
 
   <img src="https://raw.githubusercontent.com/mmphego/mjohnson518/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
   <img src="https://raw.githubusercontent.com/mmphego/mjohnson518/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/mmphego/mjohnson518/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+  <img src="https://raw.githubusercontent.com/mmphego/mjohnson518/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p> -->
+
+
 <!--
 **mjohnson518/mjohnson518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
