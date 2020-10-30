@@ -3,7 +3,6 @@
 
 <p  align="center">
  <img src="https://visitor-badge.glitch.me/badge?page_id=mjohnson518.mjohnson518" alt="visitor count"/></br>
-</p> 
 
 <a href="https://github.com/mjohnson518/mjohnson518">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjohnson518&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -12,6 +11,8 @@
 <a href="https://github.com/mjohnson518/mjohnson518">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjohnson518&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Marc's GitHub Stats" />
 </a>
+
+</p> 
 
 <!--
 **mjohnson518/mjohnson518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
