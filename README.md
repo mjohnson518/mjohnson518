@@ -3,8 +3,7 @@
 
 <p  align="center">
  <img src="https://visitor-badge.glitch.me/badge?page_id=mjohnson518.mjohnson518" alt="visitor count"/></br>
- <img src="https://github-readme-stats.vercel.app/api?username=mjohnson518&show_icons=true&?theme=dark alt="github stats"/></br></p> 
-
+ <img src="https://github-readme-stats.vercel.app/api?username=mjohnson518&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000 alt="github stats"/></br></p> 
 
 <!--
 **mjohnson518/mjohnson518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
