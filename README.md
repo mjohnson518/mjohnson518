@@ -9,7 +9,7 @@ You can find my blog posts on [Second Breakfast][3]. I usually write about energ
 ## 📬 Get in touch
 
 - Web: [marcjohnson.info][1]
-- LinkedIn: [linkedin.com/in/marc-johnson][4]
+- LinkedIn: [linkedin.com/in/marc--johnson][4]
 
 ## 🤜🏻🤛🏻 Support Me
 
