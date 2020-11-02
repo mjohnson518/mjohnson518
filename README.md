@@ -25,7 +25,7 @@ If you find any of this content valuable and want to support me, feel free to [b
 </a>
 
 <a href="https://github.com/mjohnson518/mjohnson518">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjohnson518&count_private=true&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Marc's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjohnson518&count_private=true&hide=contribs,prs=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Marc's GitHub Stats" />
 </a></p> 
 
 ---
