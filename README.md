@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 
-I'm a Sustainability Professional & Python Developer. I enjoy working on challenges related to environmental markets &  the global energy transition. You can see what I am currently up to on my personal site [here][1].
+I'm a Sustainability Professional & Python Developer. I enjoy working on challenges related to GhG Accounting, Environmental Markets & the Global Energy Transition. You can see what I am currently up to on my personal site [here][1].
 
 ## :bread: Second Breakfast
 
