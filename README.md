@@ -2,6 +2,10 @@
 
 I'm a Sustainability Professional & Python Developer. I enjoy working on challenges related to GhG Accounting, Environmental Markets & the Global Energy Transition. You can see what I am currently up to on my personal site [here][1].
 
+## 👨🏼‍💻 Active Side-Projects
+
+I'm currently working on a Django web-app that follows an API-first design approach called the [NDC Portal][5]. The web-app is intended to provide interested parties with the information needed to analyze the similarities and differences between [Nationally Determined Contributions][6].
+
 ## :bread: Second Breakfast
 
 You can find my blog posts on [Second Breakfast][3]. I usually write about energy, finance, tech, sustainability, and geopolitics. My knowledge is high-level & superficial in all of these topics, but little pieces of insight help me navigate the world.
@@ -43,3 +47,5 @@ If you find any of this content valuable and want to support me, feel free to [b
 [2]: https://www.buymeacoffee.com/marcjohnson/
 [3]: https://www.second-breakfast.co/
 [4]: https://www.linkedin.com/in/marc--johnson/
+[5]: https://ndcportal.app/
+[6]: https://www4.unfccc.int/sites/NDCStaging/Pages/Home.aspx
