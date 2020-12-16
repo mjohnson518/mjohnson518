@@ -1,4 +1,4 @@
-### Hi there 👋🏻
+### Hi, I'm Marc 👋🏻
 
 I'm a Sustainability Professional & Python Developer. I enjoy working on challenges related to GhG Accounting, Environmental Markets & the Global Energy Transition. You can find out more about me on my personal site [here][1].
 
