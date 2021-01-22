@@ -4,7 +4,7 @@ I'm a Sustainability Professional & Python Web Developer. I enjoy working on cha
 
 ## 👨🏼‍💻 Active Side-Projects
 
-I'm currently working on a Django web-app that follows an API-first design approach called the [NDC Portal][5]. The web-app is intended to provide interested parties with the information needed to analyze the similarities and differences between [Nationally Determined Contributions][6].
+I'm currently working on a Django web-app that follows an API-first design approach called the <a href="https://ndcportal.app/" target="_blank">NDC Portal</a>. The web-app is intended to provide interested parties with the information needed to analyze the similarities and differences between [Nationally Determined Contributions][5].
 
 ## :bread: Second Breakfast
 
@@ -47,5 +47,4 @@ If you find any of this content valuable and want to support me, feel free to [b
 [2]: https://www.buymeacoffee.com/marcjohnson/
 [3]: https://www.second-breakfast.co/
 [4]: https://www.linkedin.com/in/marc--johnson/
-[5]: https://ndcportal.app/
-[6]: https://www4.unfccc.int/sites/NDCStaging/Pages/Home.aspx
+[5]: https://www4.unfccc.int/sites/NDCStaging/Pages/Home.aspx
