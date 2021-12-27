@@ -1,6 +1,6 @@
 ### Hi, I'm Marc 👋🏻
 
-I'm interested in environmental markets and all things [Web3][6]. I enjoy designing incentive mechanisms that push power to the margins, and working on challenges related to GHG Accounting & the Global Energy Transition. You can find out more about me on my personal site [here][1].
+I'm interested in environmental markets and all things [Web3][6]. I enjoy working on challenges related to GHG Accounting & the Global Energy Transition.You can find out more about me on my personal site [here][1].
 
 ## 👨🏼‍💻 Active Side-Projects
 
