@@ -1,10 +1,10 @@
 ### Hi, I'm Marc 👋🏻
 
-I'm interested in environmental markets and all things [Web3][6]. I enjoy working on challenges related to GHG Accounting & the Global Energy Transition. You can find out more about me on my personal site [here][1].
+I'm interested in environmental markets and all things [Web3][6]. I'm an Environmental Solutions Architect for <a href="https://green.filecoin.io/" target="_blank">Filecoin Green</a>, a <a href="https://protocol.ai/" target="_blank">Protocol Labs</a> initiative to make environmental accounting a web3 superpower.
 
-## 👨🏼‍💻 Active Projects
+I enjoy working on challenges related to GHG Accounting & the Global Energy Transition. You can find out more about me on my personal site [here][1].
 
-I'm an Environmental Solutions Architect for <a href="https://green.filecoin.io/" target="_blank">Filecoin Green</a>, a <a href="https://protocol.ai/" target="_blank">Protocol Labs</a> initiative to make environmental accounting a web3 superpower. 
+## 👨🏼‍💻 Active Projects 
 
 I'm also working on a scope 3 emissions application called <a href="https://github.com/mjohnson518/Carbon12" target="_blank">Carbon12</a>. The aim of the project is to leverage the web3 tech stack to showcase how we can track and trace embodied emissions through industrial supply chains. 
 
