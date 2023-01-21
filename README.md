@@ -1,12 +1,12 @@
-### Hi, I'm Marc 👋🏻
+### Howdy, I'm Marc 👋🏻
 
 I'm interested in environmental markets and all things [Web3][6]. I'm an Environmental Solutions Architect for <a href="https://green.filecoin.io/" target="_blank">Filecoin Green</a>, a <a href="https://protocol.ai/" target="_blank">Protocol Labs</a> initiative to make environmental accounting a web3 superpower.
 
 I enjoy working on challenges related to GHG Accounting & the Global Energy Transition. You can find out more about me on my personal site [here][1].
 
-## 👨🏼‍💻 Active Projects 
+## 👨🏼‍💻 Active Side Projects 
 
-I'm also working on a scope 3 emissions application called <a href="https://github.com/mjohnson518/Carbon12" target="_blank">Carbon12</a>. The aim of the project is to leverage the web3 tech stack to showcase how we can track and trace embodied emissions through industrial supply chains. 
+Recently, I've worked on a scope 3 emissions application called <a href="https://github.com/mjohnson518/Carbon12" target="_blank">Carbon12</a>. The aim of the project is to leverage the web3 tech stack to showcase how we can track and trace embodied emissions through industrial supply chains. 
 
 I've also recently worked on <a href="https://unios.world/" target="_blank">Unios World</a>, a generative NFT project that creates personal connections with nature and technology in the physical and virtual worlds. Lastly, I still maintain <a href="https://ndcportal.app/" target="_blank">NDC Portal</a>, a Django web-app thats intended to provide interested parties with the information needed to analyze the similarities and differences between [Nationally Determined Contributions][5].
 
@@ -19,7 +19,7 @@ You can find my blog posts on [Second Breakfast][3]. I usually write about energ
 - Web: [marcjohnson.info][1]
 - LinkedIn: [linkedin.com/in/marc--johnson][4]
 
-## 🤜🏻🤛🏻 Support Me
+## 🤜🏻🤛🏻 Show some love
 
 If you find any of this content valuable and want to support me, feel free to [buy me a coffee][2]. :coffee:🙏🏻
 
