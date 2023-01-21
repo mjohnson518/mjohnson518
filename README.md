@@ -16,7 +16,7 @@ You can find my blog posts on [Second Breakfast][3]. I usually write about energ
 
 ## 📬 Get in touch
 
-- Web: [marcjohnson.info][1]
+- Web: [marcjohnson.xyz][1]
 - LinkedIn: [linkedin.com/in/marc--johnson][4]
 
 ## 🤜🏻🤛🏻 Show some love
@@ -47,7 +47,7 @@ If you find any of this content valuable and want to support me, feel free to [b
 
 
 
-[1]: https://www.marcjohnson.info/
+[1]: https://marcjohnson.info/
 [2]: https://www.buymeacoffee.com/marcjohnson/
 [3]: https://www.second-breakfast.co/
 [4]: https://www.linkedin.com/in/marc--johnson/
