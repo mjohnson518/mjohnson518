@@ -6,13 +6,12 @@ I enjoy working on challenges related to GHG Accounting & the Global Energy Tran
 
 ## 👨🏼‍💻 Active Side Projects 
 
-Recently, I've worked on a scope 3 emissions application called <a href="https://github.com/mjohnson518/Carbon12" target="_blank">Carbon12</a>. The aim of the project is to leverage the web3 tools to show how we can track and trace embodied emissions through industrial supply chains. 
+* I recently worked on a scope 3 emissions application called <a href="https://github.com/mjohnson518/Carbon12" target="_blank">Carbon12</a>. The aim of the project is to leverage the web3 tools to show how we can track and trace embodied emissions through industrial supply chains. 
+  * This project was largely inspired by the work I pursued while at RMI: [Principles for Blockchain-Based Emissions Reporting](https://marcjohnson.info/RMI). I highly encourage anyone interested in this topic to follow the work of the [RMI Climate Intelligence Team](https://rmi.org/insight/toward-a-technology-ecosystem-for-carbon-accounting/) and the [WBCSD Pathfinder Framework](https://www.wbcsd.org/Programs/Climate-and-Energy/Climate/SOS-1.5/Resources/Pathfinder-Framework-Version-2.0).
 
-This project was largely inspired by the work I pursued while at RMI: [Principles for Blockchain-Based Emissions Reporting](https://marcjohnson.info/RMI). I highly encourage anyone interested in this topic to follow the work of the [RMI Climate Intelligence Team](https://rmi.org/insight/toward-a-technology-ecosystem-for-carbon-accounting/) and the [WBCSD Pathfinder Framework](https://www.wbcsd.org/Programs/Climate-and-Energy/Climate/SOS-1.5/Resources/Pathfinder-Framework-Version-2.0).
+* I've also recently worked on <a href="https://unios.world/" target="_blank">Unios World</a>, a generative NFT project that creates personal connections with nature and technology in the physical and virtual worlds. Lastly, I still maintain <a href="https://ndcportal.app/" target="_blank">NDC Portal</a>, a Django web-app thats intended to provide interested parties with the information needed to analyze the similarities and differences between [Nationally Determined Contributions][5].
 
-I've also recently worked on <a href="https://unios.world/" target="_blank">Unios World</a>, a generative NFT project that creates personal connections with nature and technology in the physical and virtual worlds. Lastly, I still maintain <a href="https://ndcportal.app/" target="_blank">NDC Portal</a>, a Django web-app thats intended to provide interested parties with the information needed to analyze the similarities and differences between [Nationally Determined Contributions][5].
-
-I also run a [Filecoin Staturn](https://strn.network/) [L1 Node in Lisbon](https://dashboard.strn.network/stats/eyJmIjp7ImxvY2F0aW9uIjp7ImZpbHRlclR5cGUiOiJ0ZXh0IiwidHlwZSI6ImNvbnRhaW5zIiwiZmlsdGVyIjoibGlzYm9uIn0sImlkIjp7ImZpbHRlclR5cGUiOiJ0ZXh0IiwidHlwZSI6ImNvbnRhaW5zIiwiZmlsdGVyIjoiNmJiMWJiOTItMDA4NS00OGE5LWE5NDQtMGY2OWI5ZWM3YzQwIn19LCJzIjpbXX0=). :rocket:
+* I also run a [Filecoin Staturn](https://strn.network/) [L1 Node in Lisbon](https://dashboard.strn.network/stats/eyJmIjp7ImxvY2F0aW9uIjp7ImZpbHRlclR5cGUiOiJ0ZXh0IiwidHlwZSI6ImNvbnRhaW5zIiwiZmlsdGVyIjoibGlzYm9uIn0sImlkIjp7ImZpbHRlclR5cGUiOiJ0ZXh0IiwidHlwZSI6ImNvbnRhaW5zIiwiZmlsdGVyIjoiNmJiMWJiOTItMDA4NS00OGE5LWE5NDQtMGY2OWI5ZWM3YzQwIn19LCJzIjpbXX0=). :rocket:
 
 ## :bread: Second Breakfast
 
