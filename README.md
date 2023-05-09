@@ -4,7 +4,7 @@ I'm interested in environmental markets and all things [Web3][6]. I'm an Environ
 
 I enjoy working on challenges related to GHG Accounting & the Global Energy Transition. You can find out more about me on my personal site [here][1].
 
-## 👨🏼‍💻 Old Side Projects 
+## 👨🏼‍💻 Side Projects 
 
 * I recently worked on a scope 3 emissions application called <a href="https://github.com/mjohnson518/Carbon12" target="_blank">Carbon12</a>. The aim of the project is to leverage the web3 tools to show how we can track and trace embodied emissions through industrial supply chains. 
   * This project was largely inspired by the work I pursued while at RMI: [Principles for Blockchain-Based Emissions Reporting](https://marcjohnson.info/RMI). I highly encourage anyone interested in this topic to follow the work of the [RMI Climate Intelligence Team](https://rmi.org/insight/toward-a-technology-ecosystem-for-carbon-accounting/) and the [WBCSD Pathfinder Framework](https://www.wbcsd.org/Programs/Climate-and-Energy/Climate/SOS-1.5/Resources/Pathfinder-Framework-Version-2.0).
