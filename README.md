@@ -28,6 +28,19 @@ You can find my blog posts on [Second Breakfast][3]. I usually write about energ
 
 If you find any of this content valuable and want to support me, feel free to [buy me a coffee][2]. :coffee:🙏🏻
 
+## &#x1f4c8; My GitHub Stats
+
+<p  align="center">
+ <img src="https://visitor-badge.glitch.me/badge?page_id=mjohnson518.mjohnson518" alt="visitor count"/></br>
+
+<a href="https://github.com/mjohnson518/mjohnson518">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjohnson518&count_private=true&hide=html,css,scss,python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/mjohnson518/mjohnson518">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjohnson518&count_private=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Marc's GitHub Stats" />
+</a></p> 
+
 
 ---
 
