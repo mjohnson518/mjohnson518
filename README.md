@@ -1,4 +1,4 @@
-### Howdy, I'm Marc 👋🏻
+### Olá, I'm Marc 👋🏻
 
 I'm interested in environmental markets and all things [Web3][6]. I'm an Environmental Solutions Architect for <a href="https://green.filecoin.io/" target="_blank">Filecoin Green</a>, a <a href="https://protocol.ai/" target="_blank">Protocol Labs</a> initiative to make environmental accounting a web3 superpower.
 
