@@ -14,7 +14,14 @@ I enjoy working on challenges related to GHG Accounting & the Global Energy Tran
 
 <a href="https://github.com/mjohnson518/mjohnson518">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjohnson518&count_private=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Marc's GitHub Stats" />
-</a></p> 
+</a>
+
+<a href="https://roadmap.sh">
+<img align="center" src="https://roadmap.sh/card/wide/66afd17fc3e10bac25f67684?variant=dark&roadmaps=rust" alt="roadmap.sh" />
+</a>
+
+
+</p>
 
 
 ---
