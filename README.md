@@ -17,7 +17,7 @@ I enjoy working on challenges related to GHG Accounting & the Global Energy Tran
 </a>
 
 <a href="https://roadmap.sh">
-<img align="center" src="https://roadmap.sh/card/wide/66afd17fc3e10bac25f67684?variant=dark&roadmaps=rust" alt="roadmap.sh" />
+<img align="center" src="https://roadmap.sh/card/tall/66afd17fc3e10bac25f67684?variant=dark&roadmaps=rust" alt="roadmap.sh" />
 </a>
 
 
