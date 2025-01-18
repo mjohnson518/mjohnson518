@@ -1,10 +1,10 @@
 ### Olá, I'm Marc 👋🏻
 
-I'm passionate about open, decentralized protocols and their potential to empower individuals and serve the greater good. I'm the Co-founder & CEO of <a href="https://novaenergy.ai/" target="_blank">Nova Energy</a>. We build software to monitor & mitigate the environmental impact of computing environments.
+I'm passionate about open, decentralized protocols and their potential to empower individuals and serve the greater good. 
 
-Previously, I was an Environmental Solutions Architect for <a href="https://green.filecoin.io/" target="_blank">Filecoin Green</a>, a <a href="https://protocol.ai/" target="_blank">Protocol Labs</a> initiative to make environmental accounting a web3 superpower.
+I'm the Co-founder & CEO of <a href="https://novaenergy.ai/" target="_blank">Nova Energy</a>. We build software to monitor & mitigate the environmental impact of computing environments. Previously, I was an Environmental Solutions Architect for <a href="https://protocol.ai/" target="_blank">Protocol Labs</a>.
 
-I enjoy working on challenges related to GHG Accounting & the Global Energy Transition. You can find out more about me on my personal site [here][1].
+You can find out more about me on my personal site [here][1].
 
 <p  align="center">
 
