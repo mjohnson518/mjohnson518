@@ -1,6 +1,6 @@
 ### Olá, I'm Marc 👋🏻
 
-I'm interested in environmental markets and all things [Web3][6]. I'm the Co-founder & CEO of <a href="https://novaenergy.ai/" target="_blank">Nova Energy</a>. We build software to monitor & mitigate the environmental impact of computing environments.
+I'm passionate about open, decentralized protocols and their potential to empower individuals and serve the greater good. I'm the Co-founder & CEO of <a href="https://novaenergy.ai/" target="_blank">Nova Energy</a>. We build software to monitor & mitigate the environmental impact of computing environments.
 
 Previously, I was an Environmental Solutions Architect for <a href="https://green.filecoin.io/" target="_blank">Filecoin Green</a>, a <a href="https://protocol.ai/" target="_blank">Protocol Labs</a> initiative to make environmental accounting a web3 superpower.
 
@@ -31,8 +31,3 @@ I enjoy working on challenges related to GHG Accounting & the Global Energy Tran
 
 
 [1]: https://marcjohnson.xyz/
-[2]: https://www.buymeacoffee.com/marcjohnson/
-[3]: https://www.second-breakfast.co/
-[4]: https://www.linkedin.com/in/marc--johnson/
-[5]: https://www4.unfccc.int/sites/NDCStaging/Pages/Home.aspx
-[6]: https://youtu.be/l44z35vabvA
