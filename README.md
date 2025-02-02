@@ -9,7 +9,7 @@ You can find out more about me on [my site][1], and can read my random ramblings
 <p  align="center">
 
 <a href="https://github.com/mjohnson518/mjohnson518">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjohnson518&count_private=true&hide=html,css,scss,python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjohnson518&count_private=true&hide=html,css,scss&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/mjohnson518/mjohnson518">
