@@ -1,10 +1,6 @@
 ### Olá, I'm Marc 👋🏻
 
-I believe decentralized protocols are key to creating a more equitable digital future where individuals have greater autonomy and opportunity.
-
-I'm the Co-founder & CEO of <a href="https://novaenergy.ai/" target="_blank">Nova Energy</a>. We build software to monitor & mitigate the environmental impact of computing environments. Previously, I was an Environmental Solutions Architect for <a href="https://protocol.ai/" target="_blank">Protocol Labs</a>.
-
-You can find out more about me on [my site][1], and can read my random ramblings on [my blog][2].
+I believe decentralized protocols are key to creating a more equitable digital future where individuals have greater autonomy and opportunity. You can find out more about me on [my site][1], and can read my random ramblings on [my blog][2].
 
 <p  align="center">
 
