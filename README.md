@@ -5,7 +5,7 @@ I believe decentralized protocols are key to creating a more equitable digital f
 <p  align="center">
 
 <a href="https://github.com/mjohnson518/mjohnson518">
-  <img align="center" src="https://github-readme-stats-psi-blue-48.vercel.app/api/top-langs/?username=mjohnson518&count_private=true&hide=html,css,scss,python,c,shell,PLpgSQL&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-psi-blue-48.vercel.app/api?username=mjohnson518&count_private=true&hide=html,css,scss,python,c,shell,PLpgSQL&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/mjohnson518/mjohnson518">
