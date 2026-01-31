@@ -9,7 +9,7 @@ I believe decentralized protocols are key to creating a more equitable digital f
 </a>
 
 <a href="https://github.com/mjohnson518/mjohnson518">
-  <img align="center" src="https://github-readme-stats-psi-blue-48.vercel.app/api?username=mjohnson518&count_private=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Marc's GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats-psi-blue-48.vercel.app/api/top-langs/?username=mjohnson518&count_private=true&hide=python,html,css,PLpGSQL,MDX,shell,SCSS,Dockerfile&langs_count=4&layout=compact&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Marc's GitHub Stats"/>
 </a>
 
 </p>
